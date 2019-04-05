@@ -1,3 +1,6 @@
+## POINTS: 2.0
+## KEY: Good Job, but be sure to comment your React component code a little better in the furture ;-)
+
 # React Introduction 1 Classwork
 
 ### Exercise 1:
